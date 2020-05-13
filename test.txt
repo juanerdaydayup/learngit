@@ -1,0 +1,3 @@
+hello word
+git config --global user.name "juanerdaydayup"
+git config --global user.email "117629955@qq.com"
